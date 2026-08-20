@@ -1,0 +1,11 @@
+pkg update
+pkg upgrade
+git clone https://github.com/ANNOYMUSE/Email-Spofing-.git
+ls
+cd Email-Spofing-
+ls
+python email_spofing.py
+
+টুলসটি  অবৈধ কাজে ব্যাবহার করলে Admin দায়ী থাকবে না।
+
+
